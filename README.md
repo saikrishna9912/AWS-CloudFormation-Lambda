@@ -17,4 +17,4 @@ Here in this post, I would like to share my experience with using AWS Lambda, Cl
 
 Make sure you experiment this under AWS free tier and delete the resources after you use it. Else you would be charged for the resource usage.
 
- 
+Medium post link : https://medium.com/@epraveenns/aws-lambda-as-custom-resources-in-aws-cloudformation-java-lambda-rds-ed31287ee0ce 
